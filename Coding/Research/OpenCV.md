@@ -1,8 +1,5 @@
-<center>
+<h1 align="center">OpenCV</h1>
 
-# OpenCV
-
-</center>
 
 
 ## 1. Explain what OpenCV is and its role in robot vision.
