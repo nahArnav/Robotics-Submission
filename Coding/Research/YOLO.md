@@ -1,7 +1,7 @@
 <h1 align="center">YOLO Models</h1>
 
 
-## What does YOLO do?
+## 1. What does YOLO do?
 #### YOLO (You Only Look Once) is a revolutionary, real-time object detection algorithm that can identify and locate multiple objects within an image or video in a single pass of a neural network. 
 #### Some of its key functions are :
 - **Real-Time Processing** : Unlike earlier, slower methods (like the R-CNN family) that required multiple stages of processing, YOLO uses a single, streamlined convolutional neural network (CNN) to predict bounding boxes and class probabilities simultaneously. This makes it incredibly fast, often processing images at high frame rates suitable for real-time applications like autonomous driving and video surveillance.
@@ -22,3 +22,8 @@
 - **Retail Analytics** : Managing inventory and analyzing customer behavior.
 - **Healthcare** : Assisting in medical imaging to detect anomalies like tumors.
 - **Robotics** : Enabling robots to identify and interact with objects in an assembly line or environment.
+
+
+## 2. The Difference between detection and classification:
+#### Although object detection and classification share similarities, they have distinct objectives and methodologies.
+
