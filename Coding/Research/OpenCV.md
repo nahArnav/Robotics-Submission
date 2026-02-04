@@ -3,4 +3,17 @@
 
 ## 2. Basic image processing tasks
 #### There are many basic image processing tasks that OpenCV offer:
-- Reading Images :
+- **Reading Images**: Load an image into a NumPy array using OpenCV’s **cv2.imread()** function.
+- **Writing Images**: Save images to disk using **cv2.imwrite()**.
+- **Showing Images**: Display images in a window using **cv2.imshow()**.
+- **Resizing**: Scale or shrink images using **cv2.resize()**.
+- **Cropping**: Extract a specific region of interest (ROI) using NumPy slicing.
+- **Rotation**: Flip or rotate images with **cv2.rotate()** or custom rotation matrices.
+- **Colour Conversion**: Convert between colour spaces like BGR to Grayscale or BGR to RGB using **cv2.cvtColor()**.
+- **Smoothing/Blurring**: Smooth images with **cv2.GaussianBlur()**.
+- **Edge Detection**: Detect outlines using the Canny Edge Detection algorithm with **cv2.Canny()**.
+- **Thresholding**: Convert images to binary (black and white) using **cv2.threshold()** to separate foreground from background.
+- **Morphological Operations**: Perform erosion and dilation to remove noise or join broken parts of an object.
+- **Drawing**: Add lines, circles, and text to images using functions like **cv2.line()** and **cv2.putText()**.
+- **Contours**: Detect and draw the boundaries of shapes within an image using **cv2.findContours()**.
+- **Histograms**: Analyse pixel intensity distributions with **cv2.calcHist()**.
