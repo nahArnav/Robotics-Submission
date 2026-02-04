@@ -25,7 +25,7 @@ OpenCV, an open-source computer vision and machine learning software library, pr
 
 
 ## 3. Exploring Computer Vision concepts.
-#### Building on basic image processing, Computer Vision (CV) with OpenCV shifts the focus from merely enhancing images to understanding their content.  This field allows machines to derive meaningful information from visual data and take specific actions like navigating a self-driving car or diagnosing medical conditions.
+#### Computer vision aims to enable machines to perceive and interpret visual information like humans do. It involves developing algorithms and models that can analyze images or videos, extract meaningful features, and make sense of the visual content. Building on basic image processing, Computer Vision (CV) with OpenCV shifts the focus from merely enhancing images to understanding their content.  This field allows machines to derive meaningful information from visual data and take specific actions like navigating a self-driving car or diagnosing medical conditions.
 #### Core Computer Vision Concepts include:
 - **Feature Extraction**: This involves identifying key visual elements such as edges, textures, and patterns. OpenCV uses descriptors like SIFT or ORB to find unique “keypoints” that can track objects across different frames or angles.
 - **Object Detection**: This is the process of locating and identifying specific objects within an image.  This often involves drawing bounding boxes around detected items using algorithms like Haar Cascades or deep learning models such as YOLO and SSD.
