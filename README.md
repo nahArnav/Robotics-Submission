@@ -20,3 +20,8 @@ Research on OpenCV and YOLO models.
 ### Motor Drivers.md
 Research on Motor Drivers.
 
+## Mechanical
+
+### Gear and Pinion
+Robotask is a .f3d type file which contains gear and pinion design. There's also a video accompanying it.
+
