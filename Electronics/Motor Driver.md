@@ -12,7 +12,7 @@
 - Microcontrollers operate at low "logic voltages" (usually 3.3V or 5V).
 - Motors often require higher "drive voltages" (e.g., 12V, 24V, or 48V) to operate efficiently. A motor driver allows you to use a separate, high-voltage power source for the motor while controlling it with low-voltage logic.
 
-#### Commonly Used Commercial Motor Drivers
+#### __Commonly Used Commercial Motor Drivers__
 **Motor drivers are categorized by the type of motor they drive and their power handling capabilities.** 
 **1. For Brushed DC Motors (Robotics & Hobby)**
 - **L298N (Dual H-Bridge):**
